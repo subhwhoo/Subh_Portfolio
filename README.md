@@ -3,8 +3,8 @@
 ### Setup
 
 ```shell
-git clone https://github.com/rajshekhar26/cleanfolio
-cd cleanfolio
+gh repo clone subhwhoo/Subh_Portfolio
+cd Subh_Portfolio
 ```
 
 If you use [nvm](https://github.com/nvm-sh/nvm) or [fnm](https://github.com/Schniz/fnm) (optional) -
@@ -32,7 +32,7 @@ yarn start
 
 - Open `public/index.html` and replace -
 
-`<title>John Smith</title>` with `<title>Your Name</title>`.
+`<title>Subham Chowdhury</title>` with `<title>Subham Chowdhury</title>`.
 
 - Open `src/portfolio.js` and make changes.
 
